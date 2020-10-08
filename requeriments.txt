@@ -1,0 +1,5 @@
+request
+fuzzywuzzy
+googlesearch
+bs4
+colorama
