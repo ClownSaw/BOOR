@@ -54,7 +54,7 @@ def ClownLogo():
 
 ClownLogo()
 
-query   = input(f'{cyan}SAW ~#{magenta} ')
+query   = input(f'{cyan}Usuario ~#{magenta} ')
 results = 100
 
 
